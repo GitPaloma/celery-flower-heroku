@@ -18,7 +18,7 @@
     "default": {
         "flower": {
             "git": "git://github.com/GitPaloma/flower.git",
-            "ref": "7c15b4f886bc5d4ae515e88dca240636b08a58f9"
+            "ref": "8e7b708dee196169266374a52614e5c38148853f"
         },
         "humanize": {
             "hashes": [
