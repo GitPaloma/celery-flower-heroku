@@ -6,7 +6,7 @@ name = "pypi"
 [dev-packages]
 
 [packages]
-flower = "*"
+flower = {git = "git://github.com/GitPaloma/flower.git", ref = "master"}
 redis = "*"
 
 [requires]
